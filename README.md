@@ -1,2 +1,5 @@
 # Juego_Unity
-juego troll
+Int:
+Juan Yañez
+Nicolás Beltran
+Ariel Cohen
